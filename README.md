@@ -49,6 +49,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 ---
 
+## Screenshots
+
+![Screenshot 1](./images/screenshot01.png)
+![Screenshot 2](./images/screenshot02.png)
+![Screenshot 3](./images/screenshot03.png)
+![Screenshot 4](./images/screenshot04.png)
+
 ## 📱 How to Use
 
 - Run your application normally.
@@ -70,7 +77,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 ## ✅ Requirements
 
-- **iOS 14.0+**
+- **iOS 15.0+**
 - **Swift 5.0+**
 
 ---
@@ -79,4 +86,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 SwiftNetWatch is available under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
-© 2024 Your Name. All rights reserved.
+© 2024 knd8128. All rights reserved.
